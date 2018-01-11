@@ -1,4 +1,4 @@
-package org.miao.application;
+package org.miao;
 
 import java.util.Arrays;
 
